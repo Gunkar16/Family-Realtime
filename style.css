@@ -1,0 +1,43 @@
+.heading{
+        font-size: 35px;
+    width:100%;
+    box-shadow: 10px 10px  10px teal;
+    height: 100px;
+}
+
+.heading_div:hover{
+    color: white;
+}
+img{
+    margin-top: 20px;
+}
+.heading_div{
+    background-color:rgb(21, 96, 189);
+    color: white;
+    float: none;
+    padding:10px;
+    box-shadow:10px 10px 10px rgb(15, 66, 129);
+    font-size: 20px;
+    width: 600px;
+    height:80px;
+    text-align: center;
+}
+body{
+    background-size: cover;
+}
+.copy_right_footer{
+    position: fixed;
+    color:#6c757d;
+    bottom:0;
+    width: 100%;
+    background-color:#f5f5f5;
+    line-height:3;
+    text-align: center;
+}
+body{
+    height:800px;
+}
+canvas{
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px #5bc0de;
+}
